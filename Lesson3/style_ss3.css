@@ -1,0 +1,32 @@
+.menu {
+  border: 0;
+  width: 100%;
+  background-color: #4caf50;
+}
+.menu .menu_content {
+  border: 0;
+  width: 90%;
+  align: center;
+}
+.menu .menu_content tr td a {
+  font-family: Verdana;
+  font-size: x-large;
+  color: rgb(0, 0, 0);
+  text-decoration: none;
+}
+.menu .menu_content tr td.mindx {
+  font-family: "Comic sans MS";
+  font-size: xx-large;
+  color: rgb(0, 0, 0);
+}
+.welcome{
+    background-color: black;
+    padding: 60px 0px;
+    text-align: center;
+}
+.welcome span{
+    font-family: "Times New Roman";
+    font-size: xx-large;
+    color: rgb(255, 255, 255);
+   
+}

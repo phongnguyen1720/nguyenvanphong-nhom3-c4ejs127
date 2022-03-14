@@ -1,0 +1,45 @@
+body{
+    position: absolute;
+    top: 21%;
+    left: 25%;
+}
+.header, .footer {
+  background: #2db34a;
+  border-radius: 6px;
+  color: #fff;
+  padding: 24px 15px;
+  text-align: center;
+  width: 800px;
+}
+.section {
+    border-radius: 6px;
+    color: #fff;
+    text-align: center;
+    width: 900px;
+}
+.section section {
+  background: #2db34a;
+  padding: 24px 15px;
+  border-radius: 6px;
+  
+}
+header,
+aside,
+footer {
+  margin: 0 1.5% 24px 1.5%;
+}
+footer {
+  margin-bottom: 0;
+}
+header {
+  display: grid;
+  margin-bottom: 60px;
+}
+.section {
+  display: flex;
+  justify-content: space-around;
+}
+footer {
+    display: grid;
+    margin-top: 60px;
+  }
